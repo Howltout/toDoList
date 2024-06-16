@@ -1,0 +1,1 @@
+This is a simple todo list app. I have implemented the front end using React and designed using css. I havent't used flask for deployment, instead built everything in the App.jsx file using javaScript. I haven't integrated backend since I didn't have enough time to learn flask and implement it in this project. 
