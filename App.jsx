@@ -32,7 +32,6 @@ export default function App() {
   }
 
   const handleBuyPremium = () => {
-    // Simulate buying premium, in a real app you would handle payment and set premium status
     setIsPremium(true)
     alert("You are now a premium user!")
   }
